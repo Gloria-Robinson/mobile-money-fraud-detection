@@ -1,0 +1,20 @@
+# Local datasets and archives
+*.csv
+*.zip
+*.parquet
+*.feather
+
+# Generated data and experiment artifacts
+data/
+artifacts/
+results/
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+
+# macOS
+.DS_Store
